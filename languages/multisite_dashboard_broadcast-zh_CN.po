@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Multisite Dashboard Broadcast\n"
+"POT-Creation-Date: 2013-06-21 02:26+0800\n"
+"PO-Revision-Date: 2013-06-21 02:26+0800\n"
+"Last-Translator: mogita <chrisprc@gmail.com>\n"
+"Language-Team: mogita <chrisprc@gmail.com>\n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../multisite-dashboard-broadcast.php:73
+#: ../multisite-dashboard-broadcast.php:77
+#: ../multisite-dashboard-broadcast.php:108
+msgid "Dashboard Broadcast"
+msgstr "仪表盘广播"
+
+#: ../multisite-dashboard-broadcast.php:88
+msgid "Not enough permission."
+msgstr "权限不足。"
+
+#: ../multisite-dashboard-broadcast.php:112
+msgid "Title"
+msgstr "标题"
+
+#: ../multisite-dashboard-broadcast.php:118
+msgid "Text"
+msgstr "内容"
+
+#: ../multisite-dashboard-broadcast.php:121
+msgid "You can use HTML tags."
+msgstr "可以使用 HTML 标记"
+
+#: ../multisite-dashboard-broadcast.php:127
+msgid "Save Changes"
+msgstr "保存"
+
+#: ../multisite-dashboard-broadcast.php:128
+msgid "Reset"
+msgstr "重置"
+
+#: ../multisite-dashboard-broadcast.php:132
+msgid ""
+"If this plugin helps and that makes you feel like inviting me for my "
+"favorite sweets, please feel free to <form name=\"_xclick\" action=\"https://"
+"www.paypal.com/cgi-bin/webscr\" method=\"post\">\n"
+"<input type=\"hidden\" name=\"cmd\" value=\"_xclick\">\n"
+"<input type=\"hidden\" name=\"business\" value=\"chrisprc@gmail.com\">\n"
+"<input type=\"hidden\" name=\"item_name\" value=\"Please enter your donation "
+"amount.\">\n"
+"<input type=\"hidden\" name=\"currency_code\" value=\"USD\">\n"
+"<input type=\"hidden\" name=\"amount\" value=\"\">\n"
+"<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/"
+"btn_donateCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, "
+"easier way to pay online!\">\n"
+"<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/"
+"pixel.gif\" width=\"1\" height=\"1\">\n"
+"</form><br />Thank you so much for your support!"
+msgstr ""
+"如果您认为本插件还不错，可以请我吃一份甜点的话，欢迎<a href=\"https://me."
+"alipay.com/mogita\" target=\"_blank\">捐赠</a>！<br />感谢您的支持！"
+
+#: ../multisite-dashboard-broadcast.php:152
+msgid "Settings cleared."
+msgstr "设置已清除。"
+
+#: ../multisite-dashboard-broadcast.php:171
+msgid "Settings saved."
+msgstr "设置已保存。"
+
+#~ msgid ""
+#~ "The Multisite Dashboard Broadcast plugin is only compatible with "
+#~ "WordPress Multisite."
+#~ msgstr ""
+#~ "Multisite Dashboard Broadcast 只能在 WordPress Multisite（即 Network）里工"
+#~ "作。"
+
+#~ msgid "HTML allowed"
+#~ msgstr "可以使用 HTML"
+
+#~ msgid ""
+#~ "If this plugin helps and that makes you feel like inviting me for my "
+#~ "favorite sweets,<br />please feel free to <a href=\"https://me.alipay.com/"
+#~ "mogita\" target=\"_blank\">donate me</a>.<br />Thank you so much for your "
+#~ "support!"
+#~ msgstr ""
+#~ "如果您觉得这款插件不错，并且愿意请我吃点甜品，<br />您可以在这里<a href="
+#~ "\"https://me.alipay.com/mogita\" target=\"_blank\">捐赠我</a>。<br />感谢"
+#~ "您的支持！"
+
+#~ msgid "Message"
+#~ msgstr "广播内容"
+
+#~ msgid "Nice Try..."
+#~ msgstr "别这样···"
